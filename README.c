@@ -1,4 +1,4 @@
-
+//credit to ugoo - ruriko.c
                                                       #include\
                                                   <time.h>     /*
                                                 01               \\
